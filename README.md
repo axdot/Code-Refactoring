@@ -10,5 +10,5 @@ I made this repo to show how I:
 ### Link to Deployed Page:
 https://axdot.github.io/Code-refactoring-practice/
 
-### Example of Landing page:
+### Landing Page Example:
 ![Landing Page](https://user-images.githubusercontent.com/54038283/156914731-8f458fa2-6216-42d7-9050-27a107484b6d.png)
